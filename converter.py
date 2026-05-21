@@ -41,6 +41,9 @@ if uploaded_file is not None:
         if '\ufeffID' in df.columns:
             df = df.rename(columns={'\ufeffID': 'ID'})
             
+        # Optional: Keep extra columns
+        keep_extra = st.checkbox("Keep extra custom columns (e.g., Buying Price, FB data) that aren't in the standard import template", value=True)
+        
         # 2. Process columns to match IMPORT_COLUMNS
         # Create a new dataframe that matches the import format perfectly
         st.info("Processing data...")
@@ -52,6 +55,17 @@ if uploaded_file is not None:
             else:
                 # If the column doesn't exist in the export, create it as empty
                 df_out[col] = None 
+                
+        # --- CUSTOM OVERRIDES ---
+        # Map Excel Column BG (59th column, index 58) to 'Meta: size_and_fit'
+        if df.shape[1] >= 59:
+            df_out['Meta: size_and_fit'] = df.iloc[:, 58]
+                
+        # If the user wants to keep extra columns, append them to the end
+        if keep_extra:
+            extra_cols = [c for c in df.columns if c not in IMPORT_COLUMNS and c != 'ID']
+            for c in extra_cols:
+                df_out[c] = df[c]
                 
         # 3. Show a preview of the processed data
         st.success("File processed successfully!")
