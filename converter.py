@@ -58,19 +58,24 @@ if uploaded_file is not None:
         st.subheader("Preview of Data to be Imported:")
         st.dataframe(df_out.head())
         
-        # 4. Generate Excel file for download
-        output = io.BytesIO()
-        with pd.ExcelWriter(output, engine='openpyxl') as writer:
-            df_out.to_excel(writer, index=False, sheet_name='Sheet1')
+        # Fill any remaining NaNs with empty strings to prevent formatting issues
+        df_out = df_out.fillna("")
         
-        processed_data = output.getvalue()
+        # 4. Generate CSV file for download
+        # WooCommerce natively generates and accepts standard utf-8 encoded CSVs
+        csv_data = df_out.to_csv(index=False, encoding='utf-8')
         
+        # Determine new filename
+        new_filename = uploaded_file.name.replace(".xlsx", ".csv").replace(".xls", ".csv").replace("Export", "Import")
+        if not new_filename.endswith('.csv'):
+            new_filename = new_filename.split('.')[0] + '.csv'
+            
         # Download button
         st.download_button(
-            label="⬇️ Download Import Ready File",
-            data=processed_data,
-            file_name=uploaded_file.name.replace("Export", "Import"),
-            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+            label="⬇️ Download Import Ready File (CSV)",
+            data=csv_data,
+            file_name=new_filename,
+            mime="text/csv"
         )
     except Exception as e:
         st.error(f"An error occurred while processing the file: {e}")

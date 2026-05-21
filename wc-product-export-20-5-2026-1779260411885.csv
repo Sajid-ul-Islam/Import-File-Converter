@@ -1,0 +1,2032 @@
+﻿ID,Type,SKU,"GTIN, UPC, EAN, or ISBN",Name,Published,"Is featured?","Visibility in catalog","Short description",Description,"Date sale price starts","Date sale price ends","Tax status","Tax class","In stock?",Stock,"Low stock amount","Backorders allowed?","Sold individually?","Weight (kg)","Length (cm)","Width (cm)","Height (cm)","Allow customer reviews?","Purchase note","Sale price","Regular price",Categories,Tags,"Shipping class",Images,"Download limit","Download expiry days",Parent,"Grouped products",Upsells,Cross-sells,"External URL","Button text",Position,Brands,"Attribute 1 name","Attribute 1 value(s)","Attribute 1 visible","Attribute 1 global","Attribute 2 name","Attribute 2 value(s)","Attribute 2 visible","Attribute 2 global","Attribute 3 name","Attribute 3 value(s)","Attribute 3 visible","Attribute 3 global","Attribute 4 name","Attribute 4 value(s)","Attribute 4 visible","Attribute 4 global","Meta: _wp_page_template","Meta: size_and_fit","Meta: _size_and_fit","Meta: delivery_and_return","Meta: _delivery_and_return","Meta: site-sidebar-layout","Meta: ast-site-content-layout","Meta: site-content-style","Meta: site-sidebar-style","Meta: theme-transparent-header-meta","Meta: astra-migrate-meta-layouts"
+8105,variable,101-0200-150,,"High-End Light Blue Jeans – Regular Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li><span style=""font-weight: 400;"">Made of 99.2% cotton and 0.8% spandex.</span></li>\n 	<li><span style=""font-weight: 400;"">Weight: 11.5 oz.</span></li>\n 	\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience everyday comfort with our High-end Regular Fit Jeans. The balanced silhouette provides room through the thigh and leg while keeping a clean, structured look. Made from high-quality Cross hatch Denim, it’s durable, soft, and perfect for all-day wear.\n<ul>\n 	<li><span style=""font-weight: 400;"">Regular fit jeans.</span></li>\n 	<li><span style=""font-weight: 400;"">Zipper fly fastening.</span></li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Busted Outseam.</li>\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > NEW IN, MEN > JEANS > Regular Fit","breathable denim jeans, busted outseam jeans, casual denim, casual denim pants, classic blue jeans, comfortable denim, comfortable jeans for men, cotton jeans, cotton spandex jeans, cross hatch denim, cross hatch denim jeans, denim jeans, durable denim jeans, everyday denim wear, everyday jeans, everyday wear jeans, five pocket jeans, flexible fit denim, high quality denim, high quality jeans, high-end denim jeans, imported denim jeans, jeans, jeans for men, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim, premium regular fit jeans, regular fit jeans, regular leg jeans, smart casual jeans, soft denim jeans, stretch denim jeans, stretch jeans, structured fit jeans, stylish men jeans, trendy denim pants, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Light-Blue-Jeans-–-Regular-Fit-101-0200-150-Model-front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Light-Blue-Jeans-–-Regular-Fit-101-0200-150-close-1.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Light-Blue-Jeans-–-Regular-Fit-101-0200-150-close-2.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Light-Blue-Jeans-–-Regular-Fit-101-0200-150-close-3.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Light-Blue-Jeans-–-Regular-Fit-101-0200-150-close-4.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">39</td>
+<td style=""text-align: center;"">40</td>
+<td style=""text-align: center;"">41</td>
+<td style=""text-align: center;"">41.5</td>
+<td style=""text-align: center;"">42</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">38.5</td>
+<td style=""text-align: center;"">40.5</td>
+<td style=""text-align: center;"">42.5</td>
+<td style=""text-align: center;"">44.5</td>
+<td style=""text-align: center;"">46.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">24.25</td>
+<td style=""text-align: center;"">25.9</td>
+<td style=""text-align: center;"">26</td>
+<td style=""text-align: center;"">26.75</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+<td style=""text-align: center;"">17.3</td>
+<td style=""text-align: center;"">17.8</td>
+<td style=""text-align: center;"">18.3</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.2</td>
+<td style=""text-align: center;"">15.8</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8106,variation,,,"High-End Light Blue Jeans – Regular Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2390,,,,,,,101-0200-150,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8107,variation,,,"High-End Light Blue Jeans – Regular Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2390,,,,,,,101-0200-150,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8108,variation,,,"High-End Light Blue Jeans – Regular Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2390,,,,,,,101-0200-150,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8109,variation,,,"High-End Light Blue Jeans – Regular Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2390,,,,,,,101-0200-150,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8110,variation,,,"High-End Light Blue Jeans – Regular Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2390,,,,,,,101-0200-150,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8111,variation,,,"High-End Light Blue Jeans – Regular Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2390,,,,,,,101-0200-150,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8141,variable,101-0200-151,,"High-End Whisker Faded Jeans – Regular Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li><span style=""font-weight: 400;"">Made of 99.2% cotton and 0.8% spandex.</span></li>\n 	<li><span style=""font-weight: 400;"">Weight: 11.5 oz.</span></li>\n 	<li><span style=""font-weight: 400;"">Regular fit jeans.</span></li>\n 	<li><span style=""font-weight: 400;"">Zipper fly fastening.</span></li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Busted Outseam.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience everyday comfort with our High-end Regular Fit Jeans. The balanced silhouette provides room through the thigh and leg while keeping a clean, structured look. Made from high-quality Cross hatch Denim, it’s durable, soft, and perfect for all-day wear.\n<ul>\n 	<li><span style=""font-weight: 400;"">Regular fit jeans.</span></li>\n 	<li><span style=""font-weight: 400;"">Zipper fly fastening.</span></li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Busted Outseam.</li>\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > NEW IN, MEN > JEANS > Regular Fit","breathable denim jeans, busted outseam jeans, casual denim, casual denim pants, classic blue jeans, comfortable denim, comfortable jeans for men, cotton jeans, cotton spandex jeans, cross hatch denim, cross hatch denim jeans, denim jeans, durable denim jeans, everyday denim wear, everyday jeans, everyday wear jeans, five pocket jeans, flexible fit denim, high quality denim, high quality jeans, high-end denim jeans, imported denim jeans, jeans, jeans for men, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim, premium regular fit jeans, regular fit jeans, regular leg jeans, smart casual jeans, soft denim jeans, stretch denim jeans, stretch jeans, structured fit jeans, stylish men jeans, trendy denim pants, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Whisker-Faded-Jeans-–-Regular-Fit-101-0200-151-model-front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Whisker-Faded-Jeans-–-Regular-Fit-101-0200-151-close-1.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Whisker-Faded-Jeans-–-Regular-Fit-101-0200-151-close-2.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Whisker-Faded-Jeans-–-Regular-Fit-101-0200-151-close-3.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Whisker-Faded-Jeans-–-Regular-Fit-101-0200-151-close-4.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">39</td>
+<td style=""text-align: center;"">40</td>
+<td style=""text-align: center;"">41</td>
+<td style=""text-align: center;"">41.5</td>
+<td style=""text-align: center;"">42</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">38.5</td>
+<td style=""text-align: center;"">40.5</td>
+<td style=""text-align: center;"">42.5</td>
+<td style=""text-align: center;"">44.5</td>
+<td style=""text-align: center;"">46.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">24.25</td>
+<td style=""text-align: center;"">25.9</td>
+<td style=""text-align: center;"">26</td>
+<td style=""text-align: center;"">26.75</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+<td style=""text-align: center;"">17.3</td>
+<td style=""text-align: center;"">17.8</td>
+<td style=""text-align: center;"">18.3</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.2</td>
+<td style=""text-align: center;"">15.8</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8142,variation,,,"High-End Whisker Faded Jeans – Regular Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2490,,,,,,,101-0200-151,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8143,variation,,,"High-End Whisker Faded Jeans – Regular Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2490,,,,,,,101-0200-151,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8144,variation,,,"High-End Whisker Faded Jeans – Regular Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2490,,,,,,,101-0200-151,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8145,variation,,,"High-End Whisker Faded Jeans – Regular Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2490,,,,,,,101-0200-151,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8146,variation,,,"High-End Whisker Faded Jeans – Regular Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2490,,,,,,,101-0200-151,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8147,variation,,,"High-End Whisker Faded Jeans – Regular Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2490,,,,,,,101-0200-151,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8149,variable,101-0200-149,,"High-End Vintage Wash Jeans – Regular Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li><span style=""font-weight: 400;"">Made of 99.2% cotton and 0.8% spandex.</span></li>\n 	<li><span style=""font-weight: 400;"">Weight: 11.5 oz.</span></li>\n 	<li><span style=""font-weight: 400;"">Regular fit jeans.</span></li>\n 	<li><span style=""font-weight: 400;"">Zipper fly fastening.</span></li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Busted Outseam.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience everyday comfort with our High-end Regular Fit Jeans. The balanced silhouette provides room through the thigh and leg while keeping a clean, structured look. Made from high-quality Cross hatch Denim, it’s durable, soft, and perfect for all-day wear.\n<ul>\n 	<li><span style=""font-weight: 400;"">Regular fit jeans.</span></li>\n 	<li><span style=""font-weight: 400;"">Zipper fly fastening.</span></li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Busted Outseam.</li>\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > NEW IN, MEN > JEANS > Regular Fit","breathable denim jeans, busted outseam jeans, casual denim, casual denim pants, classic blue jeans, comfortable denim, comfortable jeans for men, cotton jeans, cotton spandex jeans, cross hatch denim, cross hatch denim jeans, denim jeans, durable denim jeans, everyday denim wear, everyday jeans, everyday wear jeans, five pocket jeans, flexible fit denim, high quality denim, high quality jeans, high-end denim jeans, imported denim jeans, jeans, jeans for men, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim, premium regular fit jeans, regular fit jeans, regular leg jeans, smart casual jeans, soft denim jeans, stretch denim jeans, stretch jeans, structured fit jeans, stylish men jeans, trendy denim pants, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Vintage-Wash-Jeans-–-Regular-Fit-101-0200-149-Model-front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Vintage-Wash-Jeans-–-Regular-Fit-101-0200-149-close-1.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Vintage-Wash-Jeans-–-Regular-Fit-101-0200-149-close-2.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Vintage-Wash-Jeans-–-Regular-Fit-101-0200-149-close-3.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-High-End-Vintage-Wash-Jeans-–-Regular-Fit-101-0200-149-close-4.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">39</td>
+<td style=""text-align: center;"">40</td>
+<td style=""text-align: center;"">41</td>
+<td style=""text-align: center;"">41.5</td>
+<td style=""text-align: center;"">42</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">38.5</td>
+<td style=""text-align: center;"">40.5</td>
+<td style=""text-align: center;"">42.5</td>
+<td style=""text-align: center;"">44.5</td>
+<td style=""text-align: center;"">46.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">24.25</td>
+<td style=""text-align: center;"">25.9</td>
+<td style=""text-align: center;"">26</td>
+<td style=""text-align: center;"">26.75</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+<td style=""text-align: center;"">17.3</td>
+<td style=""text-align: center;"">17.8</td>
+<td style=""text-align: center;"">18.3</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.2</td>
+<td style=""text-align: center;"">15.8</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8150,variation,,,"High-End Vintage Wash Jeans – Regular Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2590,,,,,,,101-0200-149,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8151,variation,,,"High-End Vintage Wash Jeans – Regular Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2590,,,,,,,101-0200-149,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8152,variation,,,"High-End Vintage Wash Jeans – Regular Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2590,,,,,,,101-0200-149,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8153,variation,,,"High-End Vintage Wash Jeans – Regular Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2590,,,,,,,101-0200-149,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8154,variation,,,"High-End Vintage Wash Jeans – Regular Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2590,,,,,,,101-0200-149,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8155,variation,,,"High-End Vintage Wash Jeans – Regular Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,2590,,,,,,,101-0200-149,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8162,variable,101-0200-143,,"Light Wash Blue Jeans – Regular Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience all-day comfort with our Premium Regular Fit Jeans. Designed with a clean and versatile silhouette, it offers a relaxed feel through the thigh and leg while maintaining a smart everyday look. Crafted from high-quality Slub Stretch Denim, the fabric delivers durability, flexibility, and a soft hand feel for effortless daily wear.\n<ul>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Regular Fit","blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, regular fit jeans, relaxed fit denim, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-143-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-143-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-143-close.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-143-Back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.7</td>
+<td style=""text-align: center;"">39.2</td>
+<td style=""text-align: center;"">39.7</td>
+<td style=""text-align: center;"">40.2</td>
+<td style=""text-align: center;"">40.7</td>
+<td style=""text-align: center;"">40.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">36</td>
+<td style=""text-align: center;"">38</td>
+<td style=""text-align: center;"">40</td>
+<td style=""text-align: center;"">42</td>
+<td style=""text-align: center;"">44</td>
+<td style=""text-align: center;"">46</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.5</td>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">21</td>
+<td style=""text-align: center;"">22.3</td>
+<td style=""text-align: center;"">23.3</td>
+<td style=""text-align: center;"">24.3</td>
+<td style=""text-align: center;"">25.3</td>
+<td style=""text-align: center;"">26.3</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.4</td>
+<td style=""text-align: center;"">15.9</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.9</td>
+<td style=""text-align: center;"">17.4</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.9</td>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.7</td>
+<td style=""text-align: center;"">15.1</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8163,variation,,,"Light Wash Blue Jeans – Regular Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-143,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8164,variation,,,"Light Wash Blue Jeans – Regular Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-143,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8165,variation,,,"Light Wash Blue Jeans – Regular Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-143,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8166,variation,,,"Light Wash Blue Jeans – Regular Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-143,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8167,variation,,,"Light Wash Blue Jeans – Regular Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-143,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8168,variation,,,"Light Wash Blue Jeans – Regular Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-143,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8179,variable,101-0200-142,,"Mid Wash Blue Jeans – Regular Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience all-day comfort with our Premium Regular Fit Jeans. Designed with a clean and versatile silhouette, it offers a relaxed feel through the thigh and leg while maintaining a smart everyday look. Crafted from high-quality Slub Stretch Denim, the fabric delivers durability, flexibility, and a soft hand feel for effortless daily wear.\n<ul>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Regular Fit","blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, regular fit jeans, relaxed fit denim, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Mid-Wash-Blue-Jeans-–-Regular-Fit-101-0200-142-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Mid-Wash-Blue-Jeans-–-Regular-Fit-101-0200-142-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Mid-Wash-Blue-Jeans-–-Regular-Fit-101-0200-142-Back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.7</td>
+<td style=""text-align: center;"">39.2</td>
+<td style=""text-align: center;"">39.7</td>
+<td style=""text-align: center;"">40.2</td>
+<td style=""text-align: center;"">40.7</td>
+<td style=""text-align: center;"">40.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">36</td>
+<td style=""text-align: center;"">38</td>
+<td style=""text-align: center;"">40</td>
+<td style=""text-align: center;"">42</td>
+<td style=""text-align: center;"">44</td>
+<td style=""text-align: center;"">46</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.5</td>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">21</td>
+<td style=""text-align: center;"">22.3</td>
+<td style=""text-align: center;"">23.3</td>
+<td style=""text-align: center;"">24.3</td>
+<td style=""text-align: center;"">25.3</td>
+<td style=""text-align: center;"">26.3</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.4</td>
+<td style=""text-align: center;"">15.9</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.9</td>
+<td style=""text-align: center;"">17.4</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.9</td>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.7</td>
+<td style=""text-align: center;"">15.1</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8180,variation,,,"Mid Wash Blue Jeans – Regular Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-142,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8181,variation,,,"Mid Wash Blue Jeans – Regular Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-142,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8182,variation,,,"Mid Wash Blue Jeans – Regular Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-142,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8183,variation,,,"Mid Wash Blue Jeans – Regular Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-142,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8184,variation,,,"Mid Wash Blue Jeans – Regular Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-142,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8185,variation,,,"Mid Wash Blue Jeans – Regular Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-142,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8190,variable,101-0100-134,,"Grey Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.\n<ul>\n 	<li>Slim fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, regular fit jeans, relaxed fit denim, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/Grey-Jeans-–-Slim-Fit-101-0100-134-model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/Grey-Jeans-–-Slim-Fit-134-font.webp, https://deencommerce.bd/wp-content/uploads/2026/05/Grey-Jeans-–-Slim-Fit-101-0100-134-Back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8191,variation,,,"Grey Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-134,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8192,variation,,,"Grey Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-134,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8193,variation,,,"Grey Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-134,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8194,variation,,,"Grey Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-134,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8195,variation,,,"Grey Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-134,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8196,variation,,,"Grey Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-134,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8201,variable,101-0100-124,,"Black Faded Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.\n<ul>\n 	<li>Slim fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, regular fit jeans, relaxed fit denim, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,,,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8202,variation,,,"Black Faded Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-124,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8203,variation,,,"Black Faded Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-124,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8204,variation,,,"Black Faded Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-124,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8205,variation,,,"Black Faded Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-124,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8206,variation,,,"Black Faded Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-124,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8207,variation,,,"Black Faded Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-124,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8209,variable,101-0100-127,,"Dark Blue Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, relaxed fit denim, slim, slim fit jeans, slim fit outfit, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Dark-Blue-Jeans-Slim-Fit-101-0100-127-Model-1.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Dark-Blue-Jeans-Slim-Fit-101-0100-127-front-1.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Dark-Blue-Jeans-Slim-Fit-101-0100-127-back-1.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8210,variation,,,"Dark Blue Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-127,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8211,variation,,,"Dark Blue Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-127,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8212,variation,,,"Dark Blue Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-127,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8213,variation,,,"Dark Blue Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-127,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8214,variation,,,"Dark Blue Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-127,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8215,variation,,,"Dark Blue Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1590,,,,,,,101-0100-127,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8220,variable,101-0100-131,,"Black Faded Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","Black Faded Jeans, black Jeans, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, relaxed fit denim, slim, slim fit jeans, slim fit outfit, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-Faded-Jeans-–-Slim-Fit-101-0100-131-model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-Faded-Jeans-–-Slim-Fit-101-0100-131-front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-Faded-Jeans-–-Slim-Fit-101-0100-131-back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8221,variation,,,"Black Faded Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-131,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8222,variation,,,"Black Faded Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-131,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8223,variation,,,"Black Faded Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-131,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8224,variation,,,"Black Faded Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-131,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8225,variation,,,"Black Faded Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-131,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8226,variation,,,"Black Faded Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-131,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8231,variable,101-0100-132,,"Black Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","Black Faded Jeans, black Jeans, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, relaxed fit denim, slim, slim fit jeans, slim fit outfit, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-slim-fit-jeans-101-0100-132-model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-slim-fit-jeans-101-0100-132-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-slim-fit-jeans-101-0100-132-Back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8232,variation,,,"Black Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-132,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8233,variation,,,"Black Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-132,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8234,variation,,,"Black Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-132,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8235,variation,,,"Black Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-132,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8236,variation,,,"Black Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-132,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8237,variation,,,"Black Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-132,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8242,variable,101-0100-133,,"Dark Blue Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","Black Faded Jeans, black Jeans, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, relaxed fit denim, slim, slim fit jeans, slim fit outfit, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Dark-Blue-Jeans-–-Slim-Fit-101-0100-133-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Dark-Blue-Jeans-–-Slim-Fit-101-0100-133-front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Dark-Blue-Jeans-–-Slim-Fit-101-0100-133-back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8243,variation,,,"Dark Blue Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-133,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8244,variation,,,"Dark Blue Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-133,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8245,variation,,,"Dark Blue Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-133,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8246,variation,,,"Dark Blue Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-133,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8247,variation,,,"Dark Blue Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-133,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8248,variation,,,"Dark Blue Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-133,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8253,variable,101-0100-135,,"Black Faded Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","Black Faded Jeans, black Jeans, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, relaxed fit denim, slim, slim fit jeans, slim fit outfit, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-Faded-Jeans-–-Slim-Fit-101-0100-135-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-Faded-Jeans-–-Slim-Fit-101-0100-135-front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-Faded-Jeans-–-Slim-Fit-101-0100-135-back.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Black-Faded-Jeans-–-Slim-Fit-101-0100-135-close-shot.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8254,variation,,,"Black Faded Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-135,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8255,variation,,,"Black Faded Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-135,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8256,variation,,,"Black Faded Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-135,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8257,variation,,,"Black Faded Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-135,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8258,variation,,,"Black Faded Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-135,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8259,variation,,,"Black Faded Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0100-135,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8265,variable,101-0100-137,,"Indigo Ice Blue Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic blue jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, Indigo Ice Blue, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, relaxed fit denim, slim, slim fit jeans, slim fit outfit, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0100-137-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0100-137-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0100-137-Back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8266,variation,,,"Indigo Ice Blue Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-137,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8267,variation,,,"Indigo Ice Blue Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-137,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8268,variation,,,"Indigo Ice Blue Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-137,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8269,variation,,,"Indigo Ice Blue Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-137,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8270,variation,,,"Indigo Ice Blue Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-137,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8271,variation,,,"Indigo Ice Blue Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-137,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8276,variable,101-0100-138,,"90's Blue Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","90's Blue, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic blue jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, Indigo Ice Blue, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, relaxed fit denim, slim, slim fit jeans, slim fit outfit, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-90s-Blue-Jeans-Slim-Fit-101-0100-138-model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-90s-Blue-Jeans-Slim-Fit-101-0100-138-front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-90s-Blue-Jeans-Slim-Fit-101-0100-138-back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8277,variation,,,"90's Blue Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-138,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8278,variation,,,"90's Blue Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-138,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8279,variation,,,"90's Blue Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-138,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8280,variation,,,"90's Blue Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-138,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8281,variation,,,"90's Blue Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-138,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8282,variation,,,"90's Blue Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-138,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8287,variable,101-0100-139,,"Original Blue Jeans – Slim Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The slim fit is designed to sit comfortably on the waist with a slim leg that delivers a clean, modern, and versatile look. Durable construction combined with subtle detailing and a rich wash makes them suitable for both casual and semi-formal occasions. A perfect everyday essential for effortless style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Slim Fit","90's Blue, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic blue jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, Indigo Ice Blue, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, relaxed fit denim, slim, slim fit jeans, slim fit outfit, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0100-139-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0100-139-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0100-139-Back.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0100-139-close.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">49</td>
+<td style=""text-align: center;"">42=1</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.2</td>
+<td style=""text-align: center;"">24.2</td>
+<td style=""text-align: center;"">25.2</td>
+<td style=""text-align: center;"">26.2</td>
+<td style=""text-align: center;"">27.2</td>
+<td style=""text-align: center;"">28.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">23</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.3</td>
+<td style=""text-align: center;"">15.8</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">12.6</td>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.8</td>
+<td style=""text-align: center;"">14.2</td>
+<td style=""text-align: center;"">14.6</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8288,variation,,,"Original Blue Jeans – Slim Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-139,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8289,variation,,,"Original Blue Jeans – Slim Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-139,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8290,variation,,,"Original Blue Jeans – Slim Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-139,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8291,variation,,,"Original Blue Jeans – Slim Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-139,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8292,variation,,,"Original Blue Jeans – Slim Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-139,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8293,variation,,,"Original Blue Jeans – Slim Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1790,,,,,,,101-0100-139,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8299,variable,101-0200-144,,"Dark Wash Blue Jeans – Regular Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience all-day comfort with our Premium Regular Fit Jeans. Designed with a clean and versatile silhouette, it offers a relaxed feel through the thigh and leg while maintaining a smart everyday look. Crafted from high-quality Slub Stretch Denim, the fabric delivers durability, flexibility, and a soft hand feel for effortless daily wear.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Regular Fit","blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, Dark Wash, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, regular fit jeans, relaxed fit denim, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-144-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-144-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-144-Back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.7</td>
+<td style=""text-align: center;"">39.2</td>
+<td style=""text-align: center;"">39.7</td>
+<td style=""text-align: center;"">40.2</td>
+<td style=""text-align: center;"">40.7</td>
+<td style=""text-align: center;"">40.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">36</td>
+<td style=""text-align: center;"">38</td>
+<td style=""text-align: center;"">40</td>
+<td style=""text-align: center;"">42</td>
+<td style=""text-align: center;"">44</td>
+<td style=""text-align: center;"">46</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.5</td>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">21</td>
+<td style=""text-align: center;"">22.3</td>
+<td style=""text-align: center;"">23.3</td>
+<td style=""text-align: center;"">24.3</td>
+<td style=""text-align: center;"">25.3</td>
+<td style=""text-align: center;"">26.3</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.4</td>
+<td style=""text-align: center;"">15.9</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.9</td>
+<td style=""text-align: center;"">17.4</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.9</td>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.7</td>
+<td style=""text-align: center;"">15.1</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8300,variation,,,"Dark Wash Blue Jeans – Regular Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-144,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8301,variation,,,"Dark Wash Blue Jeans – Regular Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-144,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8302,variation,,,"Dark Wash Blue Jeans – Regular Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-144,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8303,variation,,,"Dark Wash Blue Jeans – Regular Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-144,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8304,variation,,,"Dark Wash Blue Jeans – Regular Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-144,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8305,variation,,,"Dark Wash Blue Jeans – Regular Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-144,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8310,variable,101-0200-145,,"Acid Wash Blue Jeans – Regular Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 11 oz.</li>\n 	<li>Regular fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Slub stretch denim.</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience all-day comfort with our Premium Regular Fit Jeans. Designed with a clean and versatile silhouette, it offers a relaxed feel through the thigh and leg while maintaining a smart everyday look. Crafted from high-quality Slub Stretch Denim, the fabric delivers durability, flexibility, and a soft hand feel for effortless daily wear.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Regular Fit","acid wash, acid wash blue jeans, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, Dark Wash, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, regular fit jeans, relaxed fit denim, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-145-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-145-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0200-145-Back.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.7</td>
+<td style=""text-align: center;"">39.2</td>
+<td style=""text-align: center;"">39.7</td>
+<td style=""text-align: center;"">40.2</td>
+<td style=""text-align: center;"">40.7</td>
+<td style=""text-align: center;"">40.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">36</td>
+<td style=""text-align: center;"">38</td>
+<td style=""text-align: center;"">40</td>
+<td style=""text-align: center;"">42</td>
+<td style=""text-align: center;"">44</td>
+<td style=""text-align: center;"">46</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.5</td>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">27.5</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">21</td>
+<td style=""text-align: center;"">22.3</td>
+<td style=""text-align: center;"">23.3</td>
+<td style=""text-align: center;"">24.3</td>
+<td style=""text-align: center;"">25.3</td>
+<td style=""text-align: center;"">26.3</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.8</td>
+<td style=""text-align: center;"">15.4</td>
+<td style=""text-align: center;"">15.9</td>
+<td style=""text-align: center;"">16.3</td>
+<td style=""text-align: center;"">16.9</td>
+<td style=""text-align: center;"">17.4</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">13.4</td>
+<td style=""text-align: center;"">13.9</td>
+<td style=""text-align: center;"">14.3</td>
+<td style=""text-align: center;"">14.7</td>
+<td style=""text-align: center;"">15.1</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8311,variation,,,"Acid Wash Blue Jeans – Regular Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-145,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8312,variation,,,"Acid Wash Blue Jeans – Regular Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-145,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8313,variation,,,"Acid Wash Blue Jeans – Regular Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-145,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8314,variation,,,"Acid Wash Blue Jeans – Regular Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-145,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8315,variation,,,"Acid Wash Blue Jeans – Regular Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-145,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8316,variation,,,"Acid Wash Blue Jeans – Regular Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0200-145,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8321,variable,101-0300-140,,"Blue Jeans – Straight Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 12.5 oz.</li>\n 	<li>Straight fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Premium ring slub appearance</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The straight fit is designed to sit comfortably on the waist with a straight leg that delivers a clean, timeless, and versatile look. Durable construction combined with subtle detailing and a rich wash makes it suitable for both casual and semi-formal wear. A perfect go-to denim for effortless everyday style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Straight Fit","acid wash blue jeans, acid wash jeans, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, dark wash jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, regular fit jeans, relaxed fit denim, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0300-140-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0300-140-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0300-140-Back.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0300-140-close.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.3</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">39</td>
+<td style=""text-align: center;"">42</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.5</td>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">24</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">26.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.7</td>
+<td style=""text-align: center;"">15.2</td>
+<td style=""text-align: center;"">15.7</td>
+<td style=""text-align: center;"">16.2</td>
+<td style=""text-align: center;"">16.7</td>
+<td style=""text-align: center;"">17.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">14</td>
+<td style=""text-align: center;"">15</td>
+<td style=""text-align: center;"">15</td>
+<td style=""text-align: center;"">16</td>
+<td style=""text-align: center;"">16</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8322,variation,,,"Blue Jeans – Straight Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-140,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8323,variation,,,"Blue Jeans – Straight Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-140,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8324,variation,,,"Blue Jeans – Straight Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-140,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8325,variation,,,"Blue Jeans – Straight Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-140,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8326,variation,,,"Blue Jeans – Straight Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-140,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8327,variation,,,"Blue Jeans – Straight Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-140,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
+8333,variable,101-0300-141,,"Light Blue Jeans – Straight Fit",1,0,visible,"<p style=""text-align: center;""><strong>Material</strong></p>\n\n<ul>\n 	<li>Made of 98% cotton and 2% spandex.</li>\n 	<li>Weight: 12.5 oz.</li>\n 	<li>Straight fit jeans.</li>\n 	<li>Zipper fly fastening.</li>\n 	<li>Five Pocket Construction.</li>\n 	<li>Premium ring slub appearance</li>\n</ul>\n<p style=""text-align: center;""><strong>Care Instructions</strong></p>\n\n<ul>\n 	<li>Wash in cold water</li>\n 	<li><span style=""font-weight: 400;"">Do not Dry Wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Color may transfer at the first wash.</span></li>\n 	<li><span style=""font-weight: 400;"">Wash each one separately.</span></li>\n</ul>","Experience the perfect blend of comfort and style with DEEN premium Stretch Jeans. Crafted from a high-quality cotton blend, these jeans offer just the right amount of stretch for all-day wearability. The straight fit is designed to sit comfortably on the waist with a straight leg that delivers a clean, timeless, and versatile look. Durable construction combined with subtle detailing and a rich wash makes it suitable for both casual and semi-formal wear. A perfect go-to denim for effortless everyday style.",,,taxable,,1,,,0,0,,,,,1,,,,"ALL PRODUCTS, MEN > JEANS, MEN, MEN > JEANS > Straight Fit","acid wash blue jeans, acid wash jeans, blue denim jeans, casual denim jeans, casual stretch jeans, casual wear jeans, classic denim jeans, classic regular fit jeans, clean look jeans, comfortable denim, comfortable jeans for men, cotton spandex jeans, cotton stretch jeans, daily wear jeans, dark wash jeans, denim jeans, durable denim jeans, everyday casual jeans, everyday denim wear, everyday jeans, fashion denim jeans, five pocket jeans, flexible denim wear, flexible fit jeans, front pocket jeans, high quality denim, high quality jeans, imported denim jeans, jeans for men, lightweight denim jeans, long lasting jeans, men fashion jeans, men jeans, men regular fit jeans, modern fit jeans, premium cotton jeans, premium denim jeans, premium regular fit jeans, regular fit jeans, relaxed fit denim, slub denim jeans, slub stretch denim, slub stretch denim jeans, smart casual jeans, smart fit jeans, soft cotton jeans, soft feel denim, soft stretch denim, stretch denim jeans, stretchable jeans for men, stylish men jeans, trendy denim pants, urban style jeans, versatile denim jeans, zipper fly jeans",,"https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0300-141-Model.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0300-141-Front.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0300-141-Back.webp, https://deencommerce.bd/wp-content/uploads/2026/05/DEEN-Jeans-101-0300-141-close.webp",,,,,,,,,0,DEEN,Size,"28, 30, 32, 34, 36, 38",1,1,"Age Group",Adult,1,1,"Fit Types","Regular Fit",1,1,Color,Blue,1,1,default,"Measured in Full Circumference (Round Measurement)
+<table>
+<tbody>
+<tr>
+<th class=""text_th"" colspan=""8"">Dimension in Inch (Expected deviation 0.5 +/-)</th>
+</tr>
+<tr>
+<th class=""text_th_left"">Waist</th>
+<td style=""text-align: center;""><strong>28</strong></td>
+<td style=""text-align: center;""><strong>30</strong></td>
+<td style=""text-align: center;""><strong>32</strong></td>
+<td style=""text-align: center;""><strong>34</strong></td>
+<td style=""text-align: center;""><strong>36</strong></td>
+<td style=""text-align: center;""><strong>38</strong></td>
+</tr>
+<tr>
+<th class=""text_th_left"">Length</th>
+<td style=""text-align: center;"">38.8</td>
+<td style=""text-align: center;"">39.3</td>
+<td style=""text-align: center;"">39.8</td>
+<td style=""text-align: center;"">40.3</td>
+<td style=""text-align: center;"">40.8</td>
+<td style=""text-align: center;"">40.8</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Hip</th>
+<td style=""text-align: center;"">35</td>
+<td style=""text-align: center;"">37</td>
+<td style=""text-align: center;"">39</td>
+<td style=""text-align: center;"">42</td>
+<td style=""text-align: center;"">43</td>
+<td style=""text-align: center;"">45</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Rise</th>
+<td style=""text-align: center;"">22.5</td>
+<td style=""text-align: center;"">23.5</td>
+<td style=""text-align: center;"">24.5</td>
+<td style=""text-align: center;"">25.5</td>
+<td style=""text-align: center;"">26.5</td>
+<td style=""text-align: center;"">25.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Thigh</th>
+<td style=""text-align: center;"">20.7</td>
+<td style=""text-align: center;"">21.7</td>
+<td style=""text-align: center;"">22.7</td>
+<td style=""text-align: center;"">24</td>
+<td style=""text-align: center;"">24.7</td>
+<td style=""text-align: center;"">26.7</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Knee</th>
+<td style=""text-align: center;"">14.7</td>
+<td style=""text-align: center;"">15.2</td>
+<td style=""text-align: center;"">15.7</td>
+<td style=""text-align: center;"">16.2</td>
+<td style=""text-align: center;"">16.7</td>
+<td style=""text-align: center;"">17.2</td>
+</tr>
+<tr>
+<th class=""text_th_left"">Leg Opening</th>
+<td style=""text-align: center;"">13</td>
+<td style=""text-align: center;"">14</td>
+<td style=""text-align: center;"">15</td>
+<td style=""text-align: center;"">15</td>
+<td style=""text-align: center;"">16</td>
+<td style=""text-align: center;"">16</td>
+</tr>
+</tbody>
+</table>",field_6a05616f0d5c9,"Your satisfaction is at the heart of everything we do. If your order isn’t the perfect fit, we’re here to make the exchange process smooth, fast, and hassle-free.
+<p data-section-id=""1miwae7"" data-start=""164"" data-end=""188""><strong>Easy Exchange Window
+</strong>You can request an exchange within 3 days of receiving your order.</p>
+<p data-section-id=""x3qf5n"" data-start=""258"" data-end=""284""><strong>Free Exchange Shipping</strong></p>
+<p data-start=""286"" data-end=""341"">We provide complimentary exchange shipping in cases of:</p>
+
+<ul data-start=""343"" data-end=""494"">
+ 	<li data-section-id=""14fosq5"" data-start=""399"" data-end=""432"">Defective or damaged products</li>
+ 	<li data-section-id=""1if8z8u"" data-start=""433"" data-end=""469"">Printing or manufacturing issues</li>
+ 	<li data-section-id=""13kve4a"" data-start=""470"" data-end=""494"">Wrong item delivered</li>
+</ul>
+<p data-section-id=""xmao7q"" data-start=""496"" data-end=""516""><strong>Exchange Process</strong></p>
+<p data-start=""518"" data-end=""557"">To request an exchange, contact us via:</p>
+
+<ul data-start=""559"" data-end=""642"">
+ 	<li data-section-id=""1goxpo5"" data-start=""559"" data-end=""586"">Hotline: <a href=""http://+8809617-700500"">+8809617-700500</a></li>
+ 	<li data-section-id=""nrkgzq"" data-start=""587"" data-end=""619"">Email: <a class=""decorated-link cursor-pointer"" rel=""noopener"" data-start=""596"" data-end=""617"">support@deencommerce.com</a></li>
+ 	<li data-section-id=""c38nf7"" data-start=""620"" data-end=""642"">Facebook <a href=""https://m.me/deencommerce"">Messenger</a>, <a href=""https://wa.me/+8801952700500"">Whatsapp</a></li>
+</ul>
+<p data-start=""644"" data-end=""670"">Please ensure the item is:</p>
+
+<ul data-start=""672"" data-end=""769"">
+ 	<li data-section-id=""4940tk"" data-start=""672"" data-end=""695"">Unused and unwashed</li>
+ 	<li data-section-id=""1l0444r"" data-start=""696"" data-end=""725"">In its original condition</li>
+ 	<li data-section-id=""s8yc1d"" data-start=""726"" data-end=""769"">Returned with tags and packaging intact</li>
+</ul>
+<p data-start=""771"" data-end=""892"">For eligible requests, our team will arrange a pickup from your location and process the exchange as quickly as possible.</p>
+<p data-section-id=""1dl45nr"" data-start=""894"" data-end=""912""><strong>Refund Support
+</strong>If an exchange is not possible, you may request a return instead. Once the item is received and inspected, refunds are processed within 1 business day to your original payment method.</p>
+<p data-section-id=""1sc9jal"" data-start=""1099"" data-end=""1117""><strong>Our Commitment
+</strong>We stand behind the quality of our products. In select situations, we may offer a replacement or refund without requiring the item to be returned because your trust means everything to us.</p>
+<a href=""https://deencommerce.com/exchange-and-return-policy/"">View Full Exchange &amp; Return Policy</a>",field_6a057523444e1,default,default,default,default,default,set
+8334,variation,,,"Light Blue Jeans – Straight Fit - 28",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-141,,,,,,1,,Size,28,,1,,,,,,,,,,,,,,,,,,,,,,,
+8335,variation,,,"Light Blue Jeans – Straight Fit - 30",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-141,,,,,,2,,Size,30,,1,,,,,,,,,,,,,,,,,,,,,,,
+8336,variation,,,"Light Blue Jeans – Straight Fit - 32",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-141,,,,,,3,,Size,32,,1,,,,,,,,,,,,,,,,,,,,,,,
+8337,variation,,,"Light Blue Jeans – Straight Fit - 34",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-141,,,,,,4,,Size,34,,1,,,,,,,,,,,,,,,,,,,,,,,
+8338,variation,,,"Light Blue Jeans – Straight Fit - 36",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-141,,,,,,5,,Size,36,,1,,,,,,,,,,,,,,,,,,,,,,,
+8339,variation,,,"Light Blue Jeans – Straight Fit - 38",1,0,visible,,,,,taxable,parent,1,50,,0,0,,,,,0,,,1690,,,,,,,101-0300-141,,,,,,6,,Size,38,,1,,,,,,,,,,,,,,,,,,,,,,,
