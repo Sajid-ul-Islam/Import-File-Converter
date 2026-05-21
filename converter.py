@@ -69,9 +69,8 @@ if uploaded_file is not None:
         st.download_button(
             label="⬇️ Download Import Ready File",
             data=processed_data,
-            file_name="Converted_Import.xlsx",
+            file_name=uploaded_file.name.replace("Export", "Import"),
             mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
         )
-        
     except Exception as e:
         st.error(f"An error occurred while processing the file: {e}")
